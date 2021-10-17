@@ -7,6 +7,13 @@
 # BlueJ files
 *.ctxt
 
+#ds_store
+.DS_Store
+
+#secret
+config.py
+michelle_config.py
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
